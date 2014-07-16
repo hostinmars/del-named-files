@@ -10,4 +10,4 @@ You should indicate the path and specified pattern of file name.
 <br> `del.py "E:\Tools" "^\..+"`
 <p>
 One more note: For python's command line you should use the double quote but single quote.
-For above note details: http://stackoverflow.com/questions/16785475/python-command-line-args-format-issue
+<br>For above note details: http://stackoverflow.com/questions/16785475/python-command-line-args-format-issue
